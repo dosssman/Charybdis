@@ -1,3 +1,0 @@
-As of 2022-04-23, when trying to print the tents/charybdis_tent... , some of the support would fail printing, resulting in some part of the print not being able to complete.
-Instead, went back to checkout the files in github/dosssman/charybdis/j0554 that were successfully printed, and remove the keycaps etc... from the preform file, to print again.
-Finger crossed.
